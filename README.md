@@ -14,10 +14,10 @@ https://milkv.io/docs/duo/resources/image-sdk
 
 cat /proc/cpuinfo 
 
-  processor	: 0
-  hart		: 0
-  isa		: rv64imafdvcsu
-  mmu		: sv39
+```processor	: 0
+```hart		: 0
+```isa		: rv64imafdvcsu
+```mmu		: sv39
 
 
 cat /proc/version 
